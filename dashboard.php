@@ -12,7 +12,7 @@ include("auth.php");
 
     <meta charset="UTF-8">
 
-    <!--<title>FX-B-C-T Dashboard</title>-->
+    <!--<title>Goldman Sachs Dashboard</title>-->
 
     <link rel="stylesheet" href="style.css">
 
@@ -52,7 +52,7 @@ include("auth.php");
 
         <li>
 
-          <a href="#">
+          <a href="deposit.php">
 
             <i class='bx bx-box' ></i>
 
@@ -66,7 +66,8 @@ include("auth.php");
 
           <a href="details.php">
 
-            <i class='bx bx-list-ul' ></i>
+            
+             <i class='bx bx-coin-stack' ></i>
 
             <span class="links_name">Withdraw</span>
 
@@ -90,73 +91,14 @@ include("auth.php");
 
           <a href="#">
 
-            <i class='bx bx-coin-stack' ></i>
-
+           <i class='bx bx-list-ul' ></i>
             <span class="links_name">Stock</span>
 
           </a>
 
         </li>
 
-        <li>
-
-          <a href="#">
-
-            <i class='bx bx-book-alt' ></i>
-
-            <span class="links_name">Total order</span>
-
-          </a>
-
-        </li>
-
-        <li>
-
-          <a href="../executives">
-
-            <i class='bx bx-user' ></i>
-
-            <span class="links_name">Team</span>
-
-          </a>
-
-        </li>
-
-        <li>
-
-          <a href="#">
-
-            <i class='bx bx-message' ></i>
-
-            <span class="links_name">Messages</span>
-
-          </a>
-
-        </li>
-
-        <li>
-
-          <a href="#">
-
-            <i class='bx bx-heart' ></i>
-
-            <span class="links_name">Favrorites</span>
-
-          </a>
-
-        </li>
-
-        <li>
-
-          <a href="#">
-
-            <i class='bx bx-cog' ></i>
-
-            <span class="links_name">Setting</span>
-
-          </a>
-
-        </li>
+       
 
         <li class="log_out">
 
