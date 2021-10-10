@@ -97,7 +97,17 @@ include("auth.php");
           </a>
 
         </li>
+<li>
 
+          <a href="#">
+
+            <i class='bx bx-message' ></i>
+
+            <span class="links_name">Live Chat</span>
+
+          </a>
+
+        </li>
        
 
         <li class="log_out">
