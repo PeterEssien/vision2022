@@ -4,7 +4,7 @@ include("auth.php");
 ?>
 <!DOCTYPE html>
 
-<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
+
 
 <html lang="en" dir="ltr">
 
@@ -21,6 +21,8 @@ include("auth.php");
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Dashboard</title>
 
    </head>
 
@@ -89,17 +91,17 @@ include("auth.php");
 
         <li>
 
-          <a href="#">
+          <a href="https://explorer.lbtc.io/">
 
            <i class='bx bx-list-ul' ></i>
-            <span class="links_name">Stock</span>
+            <span class="links_name">Transactions</span>
 
           </a>
 
         </li>
 <li>
 
-          <a href="#">
+          <a href="home.html">
 
             <i class='bx bx-message' ></i>
 
