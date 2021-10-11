@@ -77,11 +77,11 @@ include("auth.php");
 
         <li>
 
-          <a href="#">
+          <a href="analysis.html">
 
             <i class='bx bx-pie-chart-alt-2' ></i>
 
-            <span class="links_name">Analytics</span>
+            <span class="links_name">Trade Analysis</span>
 
           </a>
 
