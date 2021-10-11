@@ -23,6 +23,7 @@ include("auth.php");
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <title>Dashboard</title>
+    <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
 
    </head>
 
@@ -34,7 +35,7 @@ include("auth.php");
 
       <i class='bx bxl-c-plus-plus'></i>
 
-      <span class="logo_name">FX B-C-T</span>
+      <span class="logo_name">GS LBTC</span>
 
     </div>
 
