@@ -52,7 +52,7 @@ include("auth.php");
 
         <li>
 
-          <a href="deposit.php">
+          <a href="deposit.html">
 
             <i class='bx bx-box' ></i>
 
