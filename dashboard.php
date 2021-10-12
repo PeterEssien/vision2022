@@ -237,7 +237,7 @@ include("auth.php");
 
             <div class="box-topic">Your profits</div>
 
-            <div class="number">$<?php echo $_SESSION['profits']; ?>.000</div>
+            <div class="number">$<?php echo $_SESSION['profits']; ?>.00</div>
 
             <div class="indicator">
 
