@@ -1,6 +1,6 @@
-<!doctype html>
-<html lang="en">
-  <head>
+<!DOCTYPE html>
+<html>
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -96,5 +96,6 @@ and password='".md5($password)."'";
     <script src="js1/popper.min.js"></script>
     <script src="js1/bootstrap.min.js"></script>
     <script src="js1/main.js"></script>
-  </body>
+<?php } ?>
+</body>
 </html>
