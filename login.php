@@ -16,7 +16,7 @@
     <!-- Style -->
     <link rel="stylesheet" href="css1/style.css">
 
-    <title>Login Goldman Sachs</title>
+    <title>Login | Goldman Sachs</title>
     	  <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
   </head>
   <body>
