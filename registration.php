@@ -70,13 +70,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
                 <input type="password" class="form-control" placeholder="Password" id="password" name="password" required>
               </div>
               
-              <div class="d-flex mb-5 align-items-center">
-                <label class="control control--checkbox mb-0"><span class="caption">Remember me</span>
-                  <input type="checkbox" checked="checked"/>
-                  <div class="control__indicator"></div>
-                </label>
-               
-              </div>
+            
 
               <input name="submit" type="submit" value="Register" class="btn btn-block btn-primary">
 
