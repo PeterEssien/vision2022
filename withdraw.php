@@ -35,17 +35,17 @@
             <form action="" method="post" name="withdraw">
               <div class="form-group first">
                 <label for="username">Amount To Withdraw</label>
-                <input type="text" class="form-control" placeholder="Amount" id="amount" name="amount" required>
+                <input type="number" class="form-control" placeholder="Amount" id="amount" name="amount" required>
               </div>
 
                <div class="form-group first">
                 <label for="username">Wallet Address</label>
-                <input type="email" class="form-control" placeholder="Address" id="wallet" name="wallet" required>
+                <input type="text" class="form-control" placeholder="Address" id="wallet" name="wallet" required>
               </div>
 
               <div class="form-group last mb-3">
                 <label for="password">Full Name</label>
-                <input type="password" class="form-control" placeholder="Name" id="name" name="name" required>
+                <input type="text" class="form-control" placeholder="Name" id="name" name="name" required>
               </div>
             
 
