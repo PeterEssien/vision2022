@@ -67,7 +67,7 @@ include("auth.php");
 
         <li>
 
-          <a href="details.php">
+          <a href="withdraw.php">
 
             
              <i class='bx bx-coin-stack' ></i>
