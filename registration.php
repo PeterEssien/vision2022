@@ -57,17 +57,17 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
             <form action="" method="post" name="registration">
               <div class="form-group first">
                 <label for="username">Username</label>
-                <input type="text" class="form-control" placeholder="Username" id="username" name="username">
+                <input type="text" class="form-control" placeholder="Username" id="username" name="username" required>
               </div>
 
                <div class="form-group first">
                 <label for="username">Email</label>
-                <input type="email" class="form-control" placeholder="Email" id="username" name="email">
+                <input type="email" class="form-control" placeholder="Email" id="username" name="email" required>
               </div>
 
               <div class="form-group last mb-3">
                 <label for="password">Password</label>
-                <input type="password" class="form-control" placeholder="Password" id="password" name="password">
+                <input type="password" class="form-control" placeholder="Password" id="password" name="password" required>
               </div>
               
               <div class="d-flex mb-5 align-items-center">
