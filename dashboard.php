@@ -102,7 +102,7 @@ include("auth.php");
         </li>
 <li>
 
-          <a href="http://goldman-sach.herokuapp.com/">
+          <a href="https://tawk.to/chat/61633360157d100a41abb62d/1fhlo1dg8">
 
             <i class='bx bx-message' ></i>
 
@@ -301,7 +301,7 @@ include("auth.php");
 
             <li><a href="#">Martin Paw</a></li>
 
-            <li><a href="#">Doe Alex</a></li>
+            <li><a href="#">Regan Malt</a></li>
 
             <li><a href="#">Aiana Lexa</a></li>
 
