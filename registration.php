@@ -81,7 +81,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
               <input name="submit" type="submit" value="Register" class="btn btn-block btn-primary">
 
             </form>
-            <p>Already have an account? <a href='registration.php'>Login</a></p>
+            <p>Already have an account? <a href='login.php'>Login</a></p>
           </div>
         </div>
       </div>
