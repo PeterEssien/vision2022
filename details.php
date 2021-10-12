@@ -26,7 +26,7 @@ VALUES ('$name')";
 <h1>Withdraw Funds</h1>
 <form name="registration" action="" method="post">
 <input type="text" name="amount" placeholder="Amount To Withdraw" required />
-<input type="text" name="bank" placeholder="Account Number" required />
+<input type="text" name="bank" placeholder="Wallet Address" required />
 <input type="text" name="name" placeholder="Full Name" required />
 
 <input type="submit" name="submit" value="Submit" />
