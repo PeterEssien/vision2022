@@ -363,7 +363,7 @@ include("auth.php");
 
           <div class="button">
 
-            <a href="#">See All</a>
+            <a href="https://explorer.lbtc.io/">Latest</a>
 
           </div>
 
