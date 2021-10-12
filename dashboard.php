@@ -35,7 +35,7 @@ include("auth.php");
 
       <i class='bx bxl-c-plus-plus'></i>
 
-      <span class="logo_name">GS LBTC</span>
+      <span class="logo_name">Goldman Sachs</span>
 
     </div>
 
