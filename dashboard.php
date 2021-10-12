@@ -197,7 +197,8 @@ include("auth.php");
 
             <div class="indicator">
 
-              <i class='bx bx-up-arrow-alt'></i>
+              
+               <i class='bx bx-down-arrow-alt down'></i>
 
               <span class="text">Down From Today</span>
 
@@ -205,8 +206,7 @@ include("auth.php");
 
           </div>
 
-          <i class='bx bxs-cart-add cart two' ></i>
-
+           <i class='bx bxs-cart-download cart four' ></i>
         </div>
 
         <div class="box">
@@ -241,9 +241,7 @@ include("auth.php");
 
             <div class="indicator">
 
-              
-               <i class='bx bx-down-arrow-alt down'></i>
-
+              <i class='bx bx-up-arrow-alt'></i>
 
               <span class="text">Updated 1 Minute Ago</span>
 
@@ -251,7 +249,7 @@ include("auth.php");
 
           </div>
 
-          <i class='bx bxs-cart-download cart four' ></i>
+           <i class='bx bxs-cart-add cart two' ></i>
 
         </div>
 
