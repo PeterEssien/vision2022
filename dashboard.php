@@ -267,9 +267,9 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
-              <li><a href="#">18 Oct 2021</a></li>
+              <li><a href="#">13 Oct 2021</a></li>
 
-              <li><a href="#">11 Sep 2021</a></li>
+              <li><a href="#">11 Oct 2021</a></li>
 
               <li><a href="#">08 Oct 2021</a></li>
 
