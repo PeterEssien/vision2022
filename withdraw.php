@@ -16,7 +16,7 @@
     <!-- Style -->
     <link rel="stylesheet" href="css1/style.css">
 
-    <title>Withdraw | Goldman Sachs</title>
+    <title>Withdraw | Gold-dyx</title>
     	  <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
   </head>
   <body>
@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-7">
-            <h3>Withdraw Funds | <strong>Goldman Sachs</strong></h3>
+            <h3>Withdraw Funds | <strong>Gold-dyx</strong></h3>
             <p class="mb-4">Please fill in the details below accurately to withdraw your funds.</p>
             <form action="" method="post" name="withdraw">
               <div class="form-group first">
