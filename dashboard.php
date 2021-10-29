@@ -12,7 +12,7 @@ include("auth.php");
 
     <meta charset="UTF-8">
 
-    <!--<title>Goldman Sachs Dashboard</title>-->
+    <!--<title>Gold-dyx Dashboard</title>-->
 
     <link rel="stylesheet" href="style.css">
 
