@@ -16,7 +16,7 @@
     <!-- Style -->
     <link rel="stylesheet" href="css1/style.css">
 
-    <title>Login | Goldman Sachs</title>
+    <title>Login | Gold-dyx</title>
     	  <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
   </head>
   <body>
@@ -58,7 +58,7 @@ and password='".md5($password)."'";
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-7">
-            <h3>Login to <strong>Goldman Sachs</strong></h3>
+            <h3>Login to <strong>Gold-dyx</strong></h3>
             <p class="mb-4">You need to login in order to get access to your dashboard.</p>
             <form action="" method="post" name="login">
               <div class="form-group first">
