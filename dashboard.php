@@ -209,27 +209,7 @@ include("auth.php");
            <i class='bx bxs-cart-download cart four' ></i>
         </div>
 
-        <div class="box">
-
-          <div class="right-side">
-
-            <div class="box-topic">All Profits</div>
-
-            <div class="number">$1,145,700</div>
-
-            <div class="indicator">
-
-              <i class='bx bx-up-arrow-alt'></i>
-
-              <span class="text">Updated now</span>
-
-            </div>
-
-          </div>
-
-          <i class='bx bx-cart cart three' ></i>
-
-        </div>
+        
 
         <div class="box">
 
@@ -267,6 +247,13 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
+             <li><a href="#">04 Nov 2021</a></li>
+
+              <li><a href="#">01 Nov 2021</a></li>
+
+              <li><a href="#">29 Oct 2021</a></li>
+
+
               <li><a href="#">13 Oct 2021</a></li>
 
               <li><a href="#">11 Oct 2021</a></li>
@@ -290,6 +277,12 @@ include("auth.php");
             <ul class="details">
 
             <li class="topic">Customer</li>
+           <li><a href="#">Adam McArthur</a></li>
+
+            <li><a href="#">Ryan Barkley</a></li>
+
+            <li><a href="#">Harry Flinn</a></li>
+
 
             <li><a href="#">Alex Ocean</a></li>
 
@@ -314,12 +307,17 @@ include("auth.php");
           <ul class="details">
 
             <li class="topic">Status</li>
+<li><a href="#">Paid</a></li>
 
-            <li><a href="#">Pending</a></li>
+            <li><a href="#">Paid</a></li>
 
-            <li><a href="#">Pending</a></li>
+            <li><a href="#">Paid</a></li>
 
-            <li><a href="#">Pending</a></li>
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
 
             <li><a href="#">Paid</a></li>
 
@@ -338,6 +336,12 @@ include("auth.php");
           <ul class="details">
 
             <li class="topic">Amount</li>
+           <li><a href="#">$255,870.98</a></li>
+
+            <li><a href="#">$114,593.55</a></li>
+
+            <li><a href="#">$23,871.88</a></li>
+
 
             <li><a href="#">$205,000.98</a></li>
 
