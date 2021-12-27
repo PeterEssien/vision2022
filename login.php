@@ -51,9 +51,6 @@ and password='".md5($password)."'";
     }else{
 ?>
 
-  <div class="d-lg-flex half">
-    <div class="bg order-1 order-md-2" style="background-image: url('images1/bg_1.jpg');"></div>
-    <div class="contents order-2 order-md-1">
 
       <div class="container">
         <div class="row align-items-center justify-content-center">
@@ -85,11 +82,6 @@ and password='".md5($password)."'";
           </div>
         </div>
       </div>
-    </div>
-
-    
-  </div>
-    
     
 
     <script src="js1/jquery-3.3.1.min.js"></script>
