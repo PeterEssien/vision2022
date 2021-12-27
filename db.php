@@ -1,7 +1,7 @@
 <?php
 // Enter your Host, username, password, database below.
 // I left password empty because i do not set password on localhost.
-$con = mysqli_connect("remotemysql.com","kzFBieuwkI","5ewLdjcJul","kzFBieuwkI");
+$con = mysqli_connect("sql3.freemysqlhosting.net","sql3461458","IkSyeGfuS5","sql3461458");
 // Check connection
 if (mysqli_connect_errno())
   {
