@@ -24,9 +24,10 @@
 <?php
 require('db.php');
 // If form submitted, insert values into the database.
-if (isset($_REQUEST['username'])){
+
+if (isset($_REQUEST['email'])){
         // removes backslashes
-	$username = stripslashes($_REQUEST['username']);
+	$username = stripslashes($_REQUEST['email']);
         //escapes special characters in a string
 	$username = mysqli_real_escape_string($con,$username); 
 	$email = stripslashes($_REQUEST['email']);
