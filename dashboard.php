@@ -247,11 +247,11 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
-             <li><a href="#">04 Nov 2021</a></li>
+             <li><a href="#">29 Dec 2021</a></li>
 
-              <li><a href="#">01 Nov 2021</a></li>
+              <li><a href="#">01 Dec 2021</a></li>
 
-              <li><a href="#">29 Oct 2021</a></li>
+              <li><a href="#">18 Nov 2021</a></li>
 
 
               <li><a href="#">13 Oct 2021</a></li>
@@ -277,11 +277,11 @@ include("auth.php");
             <ul class="details">
 
             <li class="topic">Customer</li>
-           <li><a href="#">Adam McArthur</a></li>
+           <li><a href="#">Jadyn Matt</a></li>
 
-            <li><a href="#">Ryan Barkley</a></li>
+            <li><a href="#">Williams Parker</a></li>
 
-            <li><a href="#">Harry Flinn</a></li>
+            <li><a href="#">Helena Dunn</a></li>
 
 
             <li><a href="#">Alex Ocean</a></li>
@@ -309,7 +309,7 @@ include("auth.php");
             <li class="topic">Status</li>
 <li><a href="#">Paid</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Pending</a></li>
 
             <li><a href="#">Paid</a></li>
 
@@ -336,11 +336,11 @@ include("auth.php");
           <ul class="details">
 
             <li class="topic">Amount</li>
-           <li><a href="#">$255,870.98</a></li>
+           <li><a href="#">$95,368.87</a></li>
 
-            <li><a href="#">$114,593.55</a></li>
+            <li><a href="#">$102,342.26</a></li>
 
-            <li><a href="#">$23,871.88</a></li>
+            <li><a href="#">$34,251.32</a></li>
 
 
             <li><a href="#">$205,000.98</a></li>
