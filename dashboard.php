@@ -247,6 +247,8 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
+             <li><a href="#">31 Dec 2021</a></li>
+
              <li><a href="#">29 Dec 2021</a></li>
 
               <li><a href="#">01 Dec 2021</a></li>
@@ -277,7 +279,10 @@ include("auth.php");
             <ul class="details">
 
             <li class="topic">Customer</li>
-           <li><a href="#">Jadyn Matt</a></li>
+
+            <li><a href="#">Mary Jeffery</a></li>
+
+            <li><a href="#">Jadyn Matt</a></li>
 
             <li><a href="#">Williams Parker</a></li>
 
@@ -307,9 +312,12 @@ include("auth.php");
           <ul class="details">
 
             <li class="topic">Status</li>
-<li><a href="#">Paid</a></li>
 
             <li><a href="#">Pending</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
 
             <li><a href="#">Paid</a></li>
 
@@ -336,9 +344,12 @@ include("auth.php");
           <ul class="details">
 
             <li class="topic">Amount</li>
-           <li><a href="#">$95,368.87</a></li>
 
-            <li><a href="#">$102,342.26</a></li>
+          <li><a href="#">$691,168.33</a></li>
+
+           <li><a href="#">$195,368.87</a></li>
+
+            <li><a href="#">$10,342.26</a></li>
 
             <li><a href="#">$34,251.32</a></li>
 
