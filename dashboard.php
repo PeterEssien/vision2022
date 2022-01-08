@@ -247,6 +247,15 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
+             <li><a href="#">08 Jan 2022</a></li>
+
+             <li><a href="#">04 Jan 2021</a></li>
+
+              <li><a href="#">02 Jan 2022</a></li>
+
+              <li><a href="#">01 Jan 2022</a></li>
+
+
              <li><a href="#">31 Dec 2021</a></li>
 
              <li><a href="#">29 Dec 2021</a></li>
@@ -279,6 +288,15 @@ include("auth.php");
             <ul class="details">
 
             <li class="topic">Customer</li>
+
+            <li><a href="#">Godfrey Hanson</a></li>
+
+            <li><a href="#">Maggi Shroom</a></li>
+
+            <li><a href="#">Paul Denim</a></li>
+
+            <li><a href="#">Anthony Sigurdsson</a></li>
+
 
             <li><a href="#">Mary Jeffery</a></li>
 
@@ -321,6 +339,15 @@ include("auth.php");
 
             <li><a href="#">Paid</a></li>
 
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
             <li><a href="#">Paid</a></li>
 
             <li><a href="#">Paid</a></li>
@@ -344,6 +371,15 @@ include("auth.php");
           <ul class="details">
 
             <li class="topic">Amount</li>
+
+           <li><a href="#">$6,168.33</a></li>
+
+           <li><a href="#">$13,368.87</a></li>
+
+            <li><a href="#">$3,342.26</a></li>
+
+            <li><a href="#">$43,251.32</a></li>
+
 
           <li><a href="#">$691,168.33</a></li>
 
