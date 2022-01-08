@@ -45,7 +45,7 @@ and password='".md5($password)."'";
 	    header("Location: dashboard.php");
          }else{
 	echo "<div class='form'>
-<h3>Username/password is incorrect.</h3>
+<h3>Email/Password is incorrect.</h3>
 <br/>Click here to <a href='login.php'>Login</a></div>";
 	}
     }else{
@@ -59,7 +59,7 @@ and password='".md5($password)."'";
             <p class="mb-4">You need to login in order to get access to your dashboard.</p>
             <form action="" method="post" name="login">
               <div class="form-group first">
-                <label for="username">Username</label>
+                <label for="username">Email</label>
                 <input type="email" class="form-control" placeholder="Email" id="username" name="username" required>
               </div>
               <div class="form-group last mb-3">
