@@ -60,7 +60,7 @@ and password='".md5($password)."'";
             <form action="" method="post" name="login">
               <div class="form-group first">
                 <label for="username">Email</label>
-                <input type="email" class="form-control" placeholder="Email" id="username" name="username" required>
+                <input type="text" class="form-control" placeholder="Email" id="username" name="username" required>
               </div>
               <div class="form-group last mb-3">
                 <label for="password">Password</label>
