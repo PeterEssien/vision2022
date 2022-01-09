@@ -39,7 +39,7 @@ if (isset($_REQUEST['email'])){
 VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
         $result = mysqli_query($con,$query);
         if($result){
-            echo "<div id='card' class='form'>
+            echo "<div id='card'>
 
 <div id='upper-side'>
    <i class="fa fa-check"></i>
