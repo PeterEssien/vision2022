@@ -53,8 +53,8 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
             <p class="mb-4">You need to create an account in order to start investing.</p>
             <form action="" method="post" name="registration">
               <div class="form-group first">
-                <label for="username">Username</label>
-                <input type="text" class="form-control" placeholder="Username" id="username" name="username" required>
+                <label for="username">Name</label>
+                <input type="text" class="form-control" placeholder="Name" id="username" name="username" required>
               </div>
 
                <div class="form-group first">
