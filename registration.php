@@ -15,7 +15,7 @@
     
     <!-- Style -->
     <link rel="stylesheet" href="css1/style.css">
-    <link rel="stylesheet" href="css1/style1.css">
+    
     <title>Register | Gold-dyx</title>
     	  <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
   </head>
@@ -39,15 +39,8 @@ if (isset($_REQUEST['email'])){
 VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
         $result = mysqli_query($con,$query);
         if($result){
-            echo "<div id='card' class="animated fadeIn">
-<div id='upper-side'> <i class="fa fa-check"></i> 
-<h3 id='status'> Success </h3> 
-</div>
-<div id='lower-side'>
-<p id='message'>Congratulations, your Gold-dyx account has been successfully created.</p>
-<a href='login.php' id="contBtn">Login</a>
-  </div>
-</div>";
+            echo "<div class='form'> <h3>You are registered successfully.</h3>
+<br/>Click here to <a href='login.php'>Login</a></div>";
         }
     }else{
 ?>
