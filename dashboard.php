@@ -436,7 +436,7 @@ include("auth.php");
 
             </a>
 
-            <span class="price">4.7%</span>
+            <span class="price">7.7%</span>
 
           </li>
 
@@ -450,7 +450,7 @@ include("auth.php");
 
             </a>
 
-            <span class="price">5.8%</span>
+            <span class="price">6.8%</span>
 
           </li>
 
@@ -474,7 +474,7 @@ include("auth.php");
 
               <!--<img src="images/scarves.jpg" alt="">-->
 
-              <span class="product">Litecoin</span>
+              <span class="product">Bitcoin Cash</span>
 
             </a>
 
@@ -492,7 +492,7 @@ include("auth.php");
 
             </a>
 
-            <span class="price">5.6%</span>
+            <span class="price">6.3%</span>
 
           </li>
 
@@ -506,7 +506,7 @@ include("auth.php");
 
             </a>
 
-            <span class="price">3.0%</span>
+            <span class="price">5.0%</span>
 
           <li>
 
