@@ -422,7 +422,7 @@ include("auth.php");
 
         <div class="top-sales box">
 
-          <div class="title">Top Seling Cryptocurrencies</div>
+          <div class="title">Top Selling Cryptocurrencies</div>
 
           <ul class="top-sales-details">
 
