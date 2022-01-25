@@ -4,106 +4,87 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>https://lbtc.io/</loc>
-  <lastmod>2019-05-24T02:01:56+00:00</lastmod>
+  <loc>https://www.golddyx.com/</loc>
+  <lastmod>2022-01-25T02:55:40+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/index.html</loc>
-  <lastmod>2019-05-24T02:01:56+00:00</lastmod>
+  <loc>https://www.golddyx.com/developer.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/developer.html</loc>
-  <lastmod>2019-05-24T02:01:56+00:00</lastmod>
+  <loc>https://www.golddyx.com/team.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/team.html</loc>
-  <lastmod>2019-05-24T02:01:57+00:00</lastmod>
+  <loc>https://www.golddyx.com/about.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/about.html</loc>
-  <lastmod>2019-05-24T02:01:56+00:00</lastmod>
+  <loc>https://www.golddyx.com/login.php</loc>
+  <lastmod>2022-01-25T02:55:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/EN/index.html</loc>
-  <lastmod>2019-05-24T02:02:04+00:00</lastmod>
+  <loc>https://www.golddyx.com/registration.php</loc>
+  <lastmod>2022-01-25T02:55:40+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/web/viewer.html</loc>
-  <lastmod>2019-04-17T07:47:40+00:00</lastmod>
+  <loc>https://www.golddyx.com/logo.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/logo.html</loc>
-  <lastmod>2019-05-24T02:01:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lbtc.io/EN/developer.html</loc>
-  <lastmod>2019-05-24T02:02:04+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/testcoins.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/testcoins.html</loc>
-  <lastmod>2019-03-29T08:06:01+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/bugs.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/bugs.html</loc>
-  <lastmod>2019-03-29T08:06:00+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/fullnode.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/fullnode.html</loc>
-  <lastmod>2019-03-29T08:06:00+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/explorer.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/explorer.html</loc>
-  <lastmod>2019-03-29T08:06:00+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/mobilewallet.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/mobilewallet.html</loc>
-  <lastmod>2019-03-29T08:06:01+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/translation.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/translation.html</loc>
-  <lastmod>2019-03-29T08:06:01+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/doc.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/doc.html</loc>
-  <lastmod>2019-03-29T08:06:00+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/video.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://lbtc.io/bounty/video.html</loc>
-  <lastmod>2019-03-29T08:06:01+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lbtc.io/EN/team.html</loc>
-  <lastmod>2019-05-24T02:02:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lbtc.io/EN/about.html</loc>
-  <lastmod>2019-05-24T02:02:04+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lbtc.io/bounty/bugrating.html</loc>
-  <lastmod>2019-03-29T08:06:00+00:00</lastmod>
+  <loc>https://www.golddyx.com/bounty/bugrating.html</loc>
+  <lastmod>2022-01-24T03:51:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
