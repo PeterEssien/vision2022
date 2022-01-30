@@ -27,7 +27,7 @@ require('db.php');
 
 if (isset($_REQUEST['email'])){
         // removes backslashes
-	$username = stripslashes($_REQUEST['email']);
+	$username = stripslashes($_REQUEST['username']);
         //escapes special characters in a string
 	$username = mysqli_real_escape_string($con,$username); 
 	$email = stripslashes($_REQUEST['email']);
