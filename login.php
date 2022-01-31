@@ -29,7 +29,7 @@ if (isset($_POST['email'])){
         // removes backslashes
 	$email = stripslashes($_REQUEST['email']);
         //escapes special characters in a string
-	$email = mysqli_real_escape_string($con,$email);
+	
 	$password = stripslashes($_REQUEST['password']);
 	$password = mysqli_real_escape_string($con,$password);
 	//Checking is user existing in the database or not
