@@ -25,15 +25,15 @@
 require('db.php');
 session_start();
 // If form submitted, insert values into the database.
-if (isset($_POST['username'])){
+if (isset($_POST['email'])){
         // removes backslashes
-	$username = stripslashes($_REQUEST['username']);
+	$email = stripslashes($_REQUEST['email']);
         //escapes special characters in a string
-	$username = mysqli_real_escape_string($con,$username);
+	$email = mysqli_real_escape_string($con,$email);
 	$password = stripslashes($_REQUEST['password']);
 	$password = mysqli_real_escape_string($con,$password);
 	//Checking is user existing in the database or not
-        $query = "SELECT * FROM `users` WHERE username='$username'
+        $query = "SELECT * FROM `users` WHERE email='$email'
 and password='".md5($password)."'";
 	$result = mysqli_query($con,$query) or die(mysql_error());
         $row = mysqli_fetch_assoc($result);
@@ -60,7 +60,7 @@ and password='".md5($password)."'";
             <form action="" method="post" name="login">
               <div class="form-group first">
                 <label for="username">Email</label>
-                <input type="text" class="form-control" placeholder="Email" id="username" name="username" required>
+                <input type="text" class="form-control" placeholder="Email" id="username" name="email" required>
               </div>
               <div class="form-group last mb-3">
                 <label for="password">Password</label>
