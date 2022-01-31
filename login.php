@@ -38,7 +38,7 @@ and password='".md5($password)."'";
 	$result = mysqli_query($con,$query) or die(mysql_error());
         $row = mysqli_fetch_assoc($result);
 	$rows = mysqli_num_rows($result);
-        if($rows==1){
+        if($row==1){
 	    $_SESSION['username'] = $username;
             $_SESSION['profits'] = $row['profits'];
             // Redirect user to index.php
