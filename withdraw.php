@@ -36,7 +36,7 @@
               </div>
 
                <div class="form-group first">
-                <label for="username">Wallet Address</label>
+                <label for="username">Wallet Address or Bank Account Number</label>
                 <input type="text" class="form-control" placeholder="Address" id="wallet" name="wallet" required>
               </div>
 
