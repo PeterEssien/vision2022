@@ -171,7 +171,7 @@ include("auth.php");
 
             <div class="box-topic">Total Users</div>
 
-            <div class="number">55,216</div>
+            <div class="number">85,736</div>
 
             <div class="indicator">
 
@@ -193,7 +193,7 @@ include("auth.php");
 
             <div class="box-topic">Active Users</div>
 
-            <div class="number">42,177</div>
+            <div class="number">69,190</div>
 
             <div class="indicator">
 
