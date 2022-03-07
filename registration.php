@@ -66,7 +66,11 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
                 <input type="password" class="form-control" placeholder="Password" id="password" name="password" required>
               </div>
               
-            
+            <div class="form-group first">
+                <label for="code">Referral Code</label>
+                <input type="text" class="form-control" placeholder="Referral Code" id="code" name="code" >
+              </div>
+
 
               <input name="submit" type="submit" value="Register" class="btn btn-block btn-primary">
 
