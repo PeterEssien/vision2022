@@ -39,7 +39,7 @@ and password='".md5($password)."'";
         $row = mysqli_fetch_assoc($result);
 	$rows = mysqli_num_rows($result);
         if($rows==1){
-	    $_SESSION['username'] = $username;
+	    $_SESSION['username'] = $email;
             $_SESSION['profits'] = $row['profits'];
             // Redirect user to index.php
 	    header("Location: dashboard.php");
