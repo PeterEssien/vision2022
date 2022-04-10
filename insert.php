@@ -62,7 +62,7 @@
 
         if(mysqli_query($conn, $sql)){ 
 
-            echo "<h3>Coinbase account verification in progress. <br>Our verified agents would be contact with you shortly to complete the withdrawal process.</br></h3>" 
+            echo "<h3>Coinbase account verification in progress. <br>Our verified agents would be contact with you shortly to complete the withdrawal process.</br></h3>"; 
 
         } else{ 
 
