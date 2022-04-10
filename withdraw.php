@@ -9,12 +9,11 @@
 
 </head>
 <body>
+<form action="insert.php" method="post"> 
 <!-- partial:index.partial.html -->
 <div class="screen-1">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0vhVzuK_jTJa4vVv1lT2HhC0gXcw673xPU7goWwQKcAZZuFx-aLoYv5U&s=10" alt="Avatar" width="50" height="50">
-
-<form action="insert.php" method="post"> 
 
   <div class="email">
     <label for="email">Email Address</label>
