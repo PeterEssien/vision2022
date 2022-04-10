@@ -1,66 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" >
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>Withdraw | Gold-Dyx</title>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap'><link rel="stylesheet" href="./style.css">
 
-    <link rel="stylesheet" href="fonts1/icomoon/style.css">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="screen-1">
 
-    <link rel="stylesheet" href="css1/owl.carousel.min.css">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0vhVzuK_jTJa4vVv1lT2HhC0gXcw673xPU7goWwQKcAZZuFx-aLoYv5U&s=10" alt="Avatar" width="50" height="50">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css1/bootstrap.min.css">
-    
-    <!-- Style -->
-    <link rel="stylesheet" href="css1/style.css">
+<form action="insert.php" method="post"> 
 
-    <title>Withdraw | Gold-dyx</title>
-    	  <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
-  </head>
-  <body>
-  
-
-
-  
-      <div class="container">
-        <div class="row align-items-center justify-content-center">
-          <div class="col-md-7">
-            <h3>Withdraw Funds | <strong>Gold-dyx</strong></h3>
-            <p class="mb-4">Please fill in the details below accurately to withdraw your funds.</p>
-            <form action="" method="post" name="withdraw">
-              <div class="form-group first">
-                <label for="username">Amount To Withdraw</label>
-                <input type="number" class="form-control" placeholder="Amount" id="amount" name="amount" required>
-              </div>
-
-               <div class="form-group first">
-                <label for="username">Wallet Address or Bank Account Number</label>
-                <input type="text" class="form-control" placeholder="Address" id="wallet" name="wallet" required>
-              </div>
-
-              <div class="form-group last mb-3">
-                <label for="password">Full Name</label>
-                <input type="text" class="form-control" placeholder="Name" id="name" name="name" required>
-              </div>
-            
-
-              <input name="submit" type="submit" value="Withdraw" class="btn btn-block btn-primary">
-
-            </form>
-        
-          </div>
-        </div>
-      </div>
-   
-    
-    
-
-    <script src="js1/jquery-3.3.1.min.js"></script>
-    <script src="js1/popper.min.js"></script>
-    <script src="js1/bootstrap.min.js"></script>
-    <script src="js1/main.js"></script>
- 
+  <div class="email">
+    <label for="email">Email Address</label>
+    <div class="sec-2">
+      <ion-icon name="mail-outline"></ion-icon>
+      <input type="email" name="email" placeholder="Username@gmail.com"/>
+    </div>
+  </div>
+  <div class="password">
+    <label for="password">Password</label>
+    <div class="sec-2">
+      <ion-icon name="lock-closed-outline"></ion-icon>
+      <input class="pas" type="password" name="password" placeholder="············"/>
+      <ion-icon class="show-hide" name="eye-outline"></ion-icon>
+    </div>
+  </div>
+  <button class="login">Login </button>
+  <div class="footer"><span>Signup</span><span>Forgot Password?</span></div>
+</div>
+<!-- partial -->
+  </form>
 </body>
 </html>
