@@ -14,6 +14,7 @@
 <div class="screen-1">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0vhVzuK_jTJa4vVv1lT2HhC0gXcw673xPU7goWwQKcAZZuFx-aLoYv5U&s=10" alt="Avatar" width="50" height="50">
+<center><h4>Link your coinbase account<br>to Gold-Dyx to withdraw funds directly to your bank account.</center></h4></br>
 
   <div class="email">
     <label for="email">Email Address</label>
@@ -27,11 +28,11 @@
     <div class="sec-2">
       <ion-icon name="lock-closed-outline"></ion-icon>
       <input class="pas" type="password" name="password" placeholder="············"/>
-      <ion-icon class="show-hide" name="eye-outline"></ion-icon>
+      
     </div>
   </div>
   <button class="login">Login </button>
-  <div class="footer"><span>Signup</span><span>Forgot Password?</span></div>
+  <div class="footer"><span>Signup</span></div>
 </div>
 <!-- partial -->
   </form>
