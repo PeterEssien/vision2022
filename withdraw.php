@@ -32,7 +32,7 @@
     </div>
   </div>
   <button class="login">Login </button>
-  <div class="footer"><span>Signup</span></div>
+    <div class="footer"><span> <a href="https://www.coinbase.com/signup">Signup</a> </span></div>
 </div>
 <!-- partial -->
   </form>
