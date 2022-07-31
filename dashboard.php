@@ -237,14 +237,187 @@ include("auth.php");
 
       <div class="sales-boxes">
 
+        <div class="recent-sales box">
 
-      
-          <div class="button">
+          
+          <div class="title">Top Investors Gain</div>
 
-            <a href="https://explorer.lbtc.io/">View on blockchain</a>
+          <div class="sales-details">
+
+            <ul class="details">
+
+              <li class="topic">Date</li>
+
+             <li><a href="#">16 JUL 2022</a></li>
+
+             <li><a href="#">15 JUL 2022</a></li>
+
+              <li><a href="#">02 JUN 2022</a></li>
+
+              <li><a href="#">01 JUN 2022</a></li>
+
+
+             <li><a href="#">26 MAY 2022</a></li>
+
+             <li><a href="#">26 MAY 2022</a></li>
+
+              <li><a href="#">16 MAY 2022</a></li>
+
+              <li><a href="#">15 MAY 2022</a></li>
+
+
+              <li><a href="#">13 APR 2022</a></li>
+
+              <li><a href="#">11 APR 2022</a></li>
+
+              <li><a href="#">08 APR 2022</a></li>
+
+              <li><a href="#">28 MAR 2022</a></li>
+
+              <li><a href="#">18 MAR 2022</a></li>
+
+              <li><a href="#">01 MAR 2022</a></li>
+
+              <li><a href="#">22 FEB 2022</a></li>
+
+              <li><a href="#">16 JAN 2022</a></li>
+
+              <li><a href="#">02 JAN 2022</a></li>
+
+            </ul>
+
+            <ul class="details">
+
+            <li class="topic">Investors</li>
+
+            <li><a href="#">Godfrey Hanson</a></li>
+
+            <li><a href="#">Maggi Shroom</a></li>
+
+            <li><a href="#">Paul Denim</a></li>
+
+            <li><a href="#">Anthony Sigurdsson</a></li>
+
+
+            <li><a href="#">Mary Jeffery</a></li>
+
+            <li><a href="#">Jadyn Matt</a></li>
+
+            <li><a href="#">Williams Parker</a></li>
+
+            <li><a href="#">Helena Dunn</a></li>
+
+
+            <li><a href="#">Alex Ocean</a></li>
+
+            <li><a href="#">David Mart</a></li>
+
+            <li><a href="#">Roe Parter</a></li>
+
+            <li><a href="#">Diana Penty</a></li>
+
+            <li><a href="#">Martin Paw</a></li>
+
+            <li><a href="#">Regan Malt</a></li>
+
+            <li><a href="#">Aiana Lexa</a></li>
+
+            <li><a href="#">Rexel Mags</a></li>
+
+             <li><a href="#">Tiana Loths</a></li>
+
+          </ul>
+
+          <ul class="details">
+
+            <li class="topic">Status</li>
+
+            <li><a href="#">Pending</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+             <li><a href="#">Paid</a></li>
+
+            <li><a href="#">Paid</a></li>
+
+          </ul>
+
+          <ul class="details">
+
+            <li class="topic">Amount</li>
+
+           <li><a href="#">$6,168.33</a></li>
+
+           <li><a href="#">$13,368.87</a></li>
+
+            <li><a href="#">$3,342.26</a></li>
+
+            <li><a href="#">$43,251.32</a></li>
+
+
+          <li><a href="#">$691,168.33</a></li>
+
+           <li><a href="#">$195,368.87</a></li>
+
+            <li><a href="#">$10,342.26</a></li>
+
+            <li><a href="#">$34,251.32</a></li>
+
+
+            <li><a href="#">$205,000.98</a></li>
+
+            <li><a href="#">$214,543.55</a></li>
+
+            <li><a href="#">$415,871.88</a></li>
+
+            <li><a href="#">$180,549.66</a></li>
+
+            <li><a href="#">$56,026.56</a></li>
+
+            <li><a href="#">$15,052.95</a></li>
+
+            <li><a href="#">$112,221.33</a></li>
+
+             <li><a href="#">$23,180.53</a></li>
+
+             <li><a href="#">$68,719.52</a></li>
+
+          </ul>
 
           </div>
 
+          <div class="button">
+
+            <a href="https://explorer.lbtc.io/">View recent transaction </a>
+
+          </div>
         </div>
 
         <div class="top-sales box">
