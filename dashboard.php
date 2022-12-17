@@ -171,7 +171,7 @@ include("auth.php");
 
             <div class="box-topic">Total Users</div>
 
-            <div class="number">85,736</div>
+            <div class="number">96,271</div>
 
             <div class="indicator">
 
@@ -193,7 +193,7 @@ include("auth.php");
 
             <div class="box-topic">Active Users</div>
 
-            <div class="number">69,190</div>
+            <div class="number">74,402</div>
 
             <div class="indicator">
 
@@ -248,41 +248,41 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
-             <li><a href="#">16 JUL 2022</a></li>
+             <li><a href="#">11 DEC 2022</a></li>
 
-             <li><a href="#">15 JUL 2022</a></li>
+             <li><a href="#">07 DEC 2022</a></li>
 
-              <li><a href="#">02 JUN 2022</a></li>
+              <li><a href="#">12 NOV 2022</a></li>
 
-              <li><a href="#">01 JUN 2022</a></li>
-
-
-             <li><a href="#">26 MAY 2022</a></li>
-
-             <li><a href="#">26 MAY 2022</a></li>
-
-              <li><a href="#">16 MAY 2022</a></li>
-
-              <li><a href="#">15 MAY 2022</a></li>
+              <li><a href="#">01 NOV 2022</a></li>
 
 
-              <li><a href="#">13 APR 2022</a></li>
+             <li><a href="#">23 OCT 2022</a></li>
 
-              <li><a href="#">11 APR 2022</a></li>
+             <li><a href="#">26 SEP 2022</a></li>
 
-              <li><a href="#">08 APR 2022</a></li>
+              <li><a href="#">16 SEP 2022</a></li>
 
-              <li><a href="#">28 MAR 2022</a></li>
+              <li><a href="#">15 SEP 2022</a></li>
 
-              <li><a href="#">18 MAR 2022</a></li>
 
-              <li><a href="#">01 MAR 2022</a></li>
+              <li><a href="#">13 AUG 2022</a></li>
 
-              <li><a href="#">22 FEB 2022</a></li>
+              <li><a href="#">11 AUG 2022</a></li>
 
-              <li><a href="#">16 JAN 2022</a></li>
+              <li><a href="#">08 JUL 2022</a></li>
 
-              <li><a href="#">02 JAN 2022</a></li>
+              <li><a href="#">28 JUN 2022</a></li>
+
+              <li><a href="#">18 MAY 2022</a></li>
+
+              <li><a href="#">01 MAY 2022</a></li>
+
+              <li><a href="#">22 APR 2022</a></li>
+
+              <li><a href="#">16 APR 2022</a></li>
+
+              <li><a href="#">02 APR 2022</a></li>
 
             </ul>
 
