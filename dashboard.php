@@ -84,7 +84,7 @@ include("auth.php");
 
             <i class='bx bx-pie-chart-alt-2' ></i>
 
-            <span class="links_name">Trade Analysis</span>
+            <span class="links_name">Trade Manually</span>
 
           </a>
 
