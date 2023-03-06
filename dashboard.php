@@ -240,7 +240,7 @@ include("auth.php");
         <div class="recent-sales box">
 
           
-          <div class="title">Top Investors Gain</div>
+          <div class="title">Recent Profit Trend</div>
 
           <div class="sales-details">
 
@@ -248,42 +248,33 @@ include("auth.php");
 
               <li class="topic">Date</li>
 
-             <li><a href="#">11 DEC 2022</a></li>
+             <li><a href="#">06 Mar 2023</a></li>
 
-             <li><a href="#">07 DEC 2022</a></li>
+             <li><a href="#">03 Mar 2023</a></li>
 
-              <li><a href="#">12 NOV 2022</a></li>
+              <li><a href="#">01 Mar 2023</a></li>
 
-              <li><a href="#">01 NOV 2022</a></li>
+              <li><a href="#">27 Feb 2022</a></li>
 
+             <li><a href="#">23  Feb 2022</a></li>
 
-             <li><a href="#">23 OCT 2022</a></li>
+             <li><a href="#">20  Feb 2022</a></li>
 
-             <li><a href="#">26 SEP 2022</a></li>
+              <li><a href="#">16 Feb 2022</a></li>
 
-              <li><a href="#">16 SEP 2022</a></li>
+              <li><a href="#">11 Feb 2022</a></li>
 
-              <li><a href="#">15 SEP 2022</a></li>
+              <li><a href="#">07 Feb 2022</a></li>
 
+              <li><a href="#">03 Feb 2022</a></li>
 
-              <li><a href="#">13 AUG 2022</a></li>
+              <li><a href="#">27 Jan 2022</a></li>
 
-              <li><a href="#">11 AUG 2022</a></li>
+              <li><a href="#">23 Jan 2022</a></li>
 
-              <li><a href="#">08 JUL 2022</a></li>
+              <li><a href="#">18 Jan 2022</a></li>
 
-              <li><a href="#">28 JUN 2022</a></li>
-
-              <li><a href="#">18 MAY 2022</a></li>
-
-              <li><a href="#">01 MAY 2022</a></li>
-
-              <li><a href="#">22 APR 2022</a></li>
-
-              <li><a href="#">16 APR 2022</a></li>
-
-              <li><a href="#">02 APR 2022</a></li>
-
+              
             </ul>
 
             <ul class="details">
@@ -318,13 +309,7 @@ include("auth.php");
 
             <li><a href="#">Martin Paw</a></li>
 
-            <li><a href="#">Regan Malt</a></li>
-
-            <li><a href="#">Aiana Lexa</a></li>
-
-            <li><a href="#">Rexel Mags</a></li>
-
-             <li><a href="#">Tiana Loths</a></li>
+           
 
           </ul>
 
@@ -332,40 +317,34 @@ include("auth.php");
 
             <li class="topic">Status</li>
 
-            <li><a href="#">Pending</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Up</a></li>
 
-            <li><a href="#">Paid</a></li>
+            <li><a href="#">Down</a></li>
 
-            <li><a href="#">Paid</a></li>
-
-            <li><a href="#">Paid</a></li>
-
-             <li><a href="#">Paid</a></li>
-
-            <li><a href="#">Paid</a></li>
+           
 
           </ul>
 
@@ -399,15 +378,9 @@ include("auth.php");
 
             <li><a href="#">$180,549.66</a></li>
 
-            <li><a href="#">$56,026.56</a></li>
+            <li><a href="#">$16,026.56</a></li>
 
-            <li><a href="#">$15,052.95</a></li>
-
-            <li><a href="#">$112,221.33</a></li>
-
-             <li><a href="#">$23,180.53</a></li>
-
-             <li><a href="#">$68,719.52</a></li>
+           
 
           </ul>
 
