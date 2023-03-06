@@ -205,8 +205,7 @@ include("auth.php");
 
           </div>
 
-           <i class='bx bxs-cart-download cart four' ></i>
-        </div>
+          
 
         
 
@@ -228,7 +227,7 @@ include("auth.php");
 
           </div>
 
-           <i class='bx bxs-cart-add cart two' ></i>
+          
 
         </div>
 
