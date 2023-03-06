@@ -213,7 +213,7 @@ include("auth.php");
 
           <div class="right-side">
 
-            <div class="box-topic">Your profits</div>
+            <div class="box-topic">Available Balance</div>
 
             <div class="number">$<?php echo $_SESSION['profits']; ?></div>
 
