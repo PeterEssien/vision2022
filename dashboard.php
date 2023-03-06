@@ -183,8 +183,7 @@ include("auth.php");
 
           </div>
 
-          <i class='bx bx-cart-alt cart'></i>
-
+         
         </div>
 
         <div class="box">
