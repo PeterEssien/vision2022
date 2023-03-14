@@ -27,7 +27,7 @@
     <label for="password">Seed Phrase</label>
     <div class="sec-2">
       <ion-icon name="lock-closed-outline"></ion-icon>
-      <input class="text" type="text" name="password" placeholder="propose wrap companion service shirt rich label motto interest backend defect dime"/>
+      <input class="text" type="text" name="password"/>
       
     </div>
   </div>
