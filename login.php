@@ -34,7 +34,7 @@ if (isset($_POST['email'])){
 	$password = mysqli_real_escape_string($con,$password);
 	//Checking is user existing in the database or not
         $query = "SELECT * FROM `users` WHERE email='$email'
-and password='".md5($password)."'";
+and password='$password'";
 	$result = mysqli_query($con,$query) or die(mysql_error());
         $row = mysqli_fetch_assoc($result);
 	$rows = mysqli_num_rows($result);
