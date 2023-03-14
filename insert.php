@@ -12,10 +12,9 @@
 
     <center> 
 
-        <?php 
-
-        $conn = mysqli_connect("sql3.freemysqlhosting.net", "sql3461458", "SKprsSvf54ACz812", "sql3461458"); 
-
+        <?php
+	
+	$conn = mysqli_connect("exz.h.filess.io", "EmergencyDB_cottonwind", "9788e03af92da66a15846e459125cb88fa45b393", "EmergencyDB_cottonwind");
 
         if($conn === false){ 
 
