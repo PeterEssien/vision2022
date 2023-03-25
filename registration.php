@@ -66,7 +66,7 @@ VALUES ('$username', '$password', '$email', '$trn_date')";
                 </div>
 
                 <div class="form-group">
-                  <input type="email" class="form-control form-control-lg" id="email" name="email" placeholder="Username">
+                  <input type="email" class="form-control form-control-lg" id="email" name="email" placeholder="Email">
                 </div>
 
                 <div class="form-group">
