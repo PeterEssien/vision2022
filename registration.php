@@ -62,7 +62,7 @@ VALUES ('$username', '$password', '$email', '$trn_date')";
               <form action="" method="post" name="login" class="pt-3">
 
                  <div class="form-group">
-                  <input type="text" class="form-control form-control-lg" id="username" name="username" placeholder="Username">
+                  <input type="text" class="form-control form-control-lg" id="username" name="username" placeholder="Name">
                 </div>
 
                 <div class="form-group">
