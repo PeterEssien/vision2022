@@ -1,26 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Golddyx - Login </title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="../../vendors/feather/feather.css">
+  <link rel="stylesheet" href="../../vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="../../vendors/ti-icons/css/themify-icons.css">
+  <link rel="stylesheet" href="../../vendors/typicons/typicons.css">
+  <link rel="stylesheet" href="../../vendors/simple-line-icons/css/simple-line-icons.css">
+  <link rel="stylesheet" href="../../vendors/css/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- Plugin css for this page -->
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="../../css/vertical-layout-light/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="../../img/logo-w-t-light.png" />
+</head>
 
-    <link rel="stylesheet" href="fonts1/icomoon/style.css">
-
-    <link rel="stylesheet" href="css1/owl.carousel.min.css">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css1/bootstrap.min.css">
-    
-    <!-- Style -->
-    <link rel="stylesheet" href="css1/style.css">
-
-    <title>Login | Gold-dyx</title>
-    	  <link href="../img/assets/favicon.ico" rel="icon" type="image/png" />
-  </head>
-  <body>
-  
+<body>
+ 
 <?php
 require('db.php');
 session_start();
@@ -39,9 +42,10 @@ and password='$password'";
         $row = mysqli_fetch_assoc($result);
 	$rows = mysqli_num_rows($result);
         if($rows==1){
-	    $_SESSION['username'] = $email;
+	    $_SESSION['username'] = $row['username'];
             $_SESSION['profits'] = $row['profits'];
-            // Redirect user to index.php
+            $_SESSION['trn_date'] = $row['trn_date'];
+
 	    header("Location: dashboard.php");
          }else{
 	echo "<div class='form'>
@@ -51,43 +55,66 @@ and password='$password'";
     }else{
 ?>
 
-
-      <div class="container">
-        <div class="row align-items-center justify-content-center">
-          <div class="col-md-7">
-            <h3>Login to <strong>Gold-dyx</strong></h3>
-            <p class="mb-4">You need to login in order to get access to your dashboard.</p>
-            <form action="" method="post" name="login">
-              <div class="form-group first">
-                <label for="email">Email</label>
-                <input type="text" class="form-control" placeholder="Email" id="email" name="email" required>
+  <div class="container-scroller">
+    <div class="container-fluid page-body-wrapper full-page-wrapper">
+      <div class="content-wrapper d-flex align-items-center auth px-0">
+        <div class="row w-100 mx-0">
+          <div class="col-lg-4 mx-auto">
+            <div class="auth-form-light text-left py-5 px-4 px-sm-5">
+              <div class="brand-logo">
+                <img src="../../images/logo.svg" alt="logo">
               </div>
-              <div class="form-group last mb-3">
-                <label for="password">Password</label>
-                <input type="password" class="form-control" placeholder="Password" id="password" name="password" required>
-              </div>
-              
-              <div class="d-flex mb-5 align-items-center">
-                <label class="control control--checkbox mb-0"><span class="caption">Remember me</span>
-                  <input type="checkbox" checked="checked"/>
-                  <div class="control__indicator"></div>
-                </label>
-                <span class="ml-auto"><a href="#" class="forgot-pass">Forgot Password</a></span> 
-              </div>
-
-              <input name="submit" type="submit" value="Log In" class="btn btn-block btn-primary">
-
-            </form>
-            <p>Not registered yet? <a href='registration.php'>Register Here</a></p>
+              <h4>Hello! let's get started</h4>
+              <h6 class="fw-light">Sign in to continue.</h6>
+              <form action="" method="post" name="login" class="pt-3">
+                <div class="form-group">
+                  <input type="email" class="form-control form-control-lg" id="email" name="email" placeholder="Username">
+                </div>
+                <div class="form-group">
+                  <input type="password" class="form-control form-control-lg" id="password" name="password" placeholder="Password">
+                </div>
+                <div class="mt-3">
+                  
+                  
+                  <input name="submit" type="submit" value="SIGN IN" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">
+                </div>
+                <div class="my-2 d-flex justify-content-between align-items-center">
+                  <div class="form-check">
+                    <label class="form-check-label text-muted">
+                      <input type="checkbox" class="form-check-input">
+                      Keep me signed in
+                    </label>
+                  </div>
+                  <a href="#" class="auth-link text-black">Forgot password?</a>
+                </div>
+                
+                <div class="text-center mt-4 fw-light">
+                  Don't have an account? <a href="registration.php" class="text-primary">Register</a>
+                </div>
+              </form>
+            </div>
           </div>
         </div>
       </div>
-    
+      <!-- content-wrapper ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+  <!-- plugins:js -->
+  <script src="../../vendors/js/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page -->
+  <script src="../../vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>
+  <!-- End plugin js for this page -->
+  <!-- inject:js -->
+  <script src="../../js/off-canvas.js"></script>
+  <script src="../../js/hoverable-collapse.js"></script>
+  <script src="../../js/template.js"></script>
+  <script src="../../js/settings.js"></script>
+  <script src="../../js/todolist.js"></script>
+  <!-- endinject -->
 
-    <script src="js1/jquery-3.3.1.min.js"></script>
-    <script src="js1/popper.min.js"></script>
-    <script src="js1/bootstrap.min.js"></script>
-    <script src="js1/main.js"></script>
 <?php } ?>
 </body>
 </html>
