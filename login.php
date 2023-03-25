@@ -68,7 +68,7 @@ and password='$password'";
               <h6 class="fw-light">Sign in to continue.</h6>
               <form action="" method="post" name="login" class="pt-3">
                 <div class="form-group">
-                  <input type="email" class="form-control form-control-lg" id="email" name="email" placeholder="Username">
+                  <input type="email" class="form-control form-control-lg" id="email" name="email" placeholder="Email">
                 </div>
                 <div class="form-group">
                   <input type="password" class="form-control form-control-lg" id="password" name="password" placeholder="Password">
