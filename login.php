@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,7 +25,7 @@
 
 <body>
  
-<?php
+
 require('db.php');
 session_start();
 // If form submitted, insert values into the database.
