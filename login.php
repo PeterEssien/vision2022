@@ -1,4 +1,4 @@
-<?php
+<?php session_start();
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,7 +27,7 @@
  
 
 require('db.php');
-session_start();
+	
 // If form submitted, insert values into the database.
 if (isset($_POST['email'])){
         // removes backslashes
