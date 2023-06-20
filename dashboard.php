@@ -918,7 +918,7 @@ include("auth.php");
                                         <div class="d-flex">
                                           <img class="img-sm rounded-10" src="images/faces/face2.jpg" alt="profile">
                                           <div class="wrapper ms-3">
-                                            <p class="ms-1 mb-1 fw-bold">Williams Tucker</p>
+                                            <p class="ms-1 mb-1 fw-bold">Laura Brooks</p>
                                             <small class="text-muted mb-0">100543</small>
                                           </div>
                                         </div>
@@ -930,7 +930,7 @@ include("auth.php");
                                         <div class="d-flex">
                                           <img class="img-sm rounded-10" src="images/faces/face3.jpg" alt="profile">
                                           <div class="wrapper ms-3">
-                                            <p class="ms-1 mb-1 fw-bold">Katherine Butler</p>
+                                            <p class="ms-1 mb-1 fw-bold">Williams Tucker</p>
                                             <small class="text-muted mb-0">100543</small>
                                           </div>
                                         </div>
@@ -954,7 +954,7 @@ include("auth.php");
                                         <div class="d-flex">
                                           <img class="img-sm rounded-10" src="images/faces/face5.jpg" alt="profile">
                                           <div class="wrapper ms-3">
-                                            <p class="ms-1 mb-1 fw-bold">Rafell John</p>
+                                            <p class="ms-1 mb-1 fw-bold">Katherine Butler</p>
                                             <small class="text-muted mb-0">Alaska, USA</small>
                                           </div>
                                         </div>
