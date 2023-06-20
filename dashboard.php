@@ -549,7 +549,7 @@ include("auth.php");
                                           <div class="d-flex">
                                             <img src="images/faces/face3.jpg" alt="">
                                             <div>
-                                              <h6>Wayne Murphy</h6>
+                                              <h6>Williams Tucker</h6>
                                               <p>03</p>
                                             </div>
                                           </div>
@@ -918,7 +918,7 @@ include("auth.php");
                                         <div class="d-flex">
                                           <img class="img-sm rounded-10" src="images/faces/face2.jpg" alt="profile">
                                           <div class="wrapper ms-3">
-                                            <p class="ms-1 mb-1 fw-bold">Wayne Murphy</p>
+                                            <p class="ms-1 mb-1 fw-bold">Williams Tucker</p>
                                             <small class="text-muted mb-0">100543</small>
                                           </div>
                                         </div>
