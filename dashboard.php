@@ -569,7 +569,7 @@ include("auth.php");
                                             </div>
                                           </div>
                                         </td>
-                                         <td><div class="badge badge-opacity-success">Fair</div></td>
+                                         <td><div class="badge badge-opacity-success">Excellent</div></td>
                                       </tr>
                                       <tr>
                                         <td>
