@@ -528,11 +528,11 @@ include("auth.php");
                                         <td>
                                           <div>
                                             <div class="d-flex justify-content-between align-items-center mb-1 max-width-progress-wrap">
-                                              <p class="text-success">76%</p>
-                                              <p>76/100</p>
+                                              <p class="text-success">78%</p>
+                                              <p>78/100</p>
                                             </div>
                                             <div class="progress progress-md">
-                                              <div class="progress-bar bg-success" role="progressbar" style="width: 76%" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100"></div>
+                                              <div class="progress-bar bg-success" role="progressbar" style="width: 78%" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                           </div>
                                         </td>
@@ -559,13 +559,13 @@ include("auth.php");
                                           <p>Senior</p>
                                         </td>
                                         <td>
-                                          <div>
+                                         <div>
                                             <div class="d-flex justify-content-between align-items-center mb-1 max-width-progress-wrap">
-                                              <p class="text-success">65%</p>
-                                              <p>65/100</p>
+                                              <p class="text-success">76%</p>
+                                              <p>76/100</p>
                                             </div>
                                             <div class="progress progress-md">
-                                              <div class="progress-bar bg-warning" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                                              <div class="progress-bar bg-success" role="progressbar" style="width: 76%" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100"></div>
                                             </div>
                                           </div>
                                         </td>
