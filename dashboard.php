@@ -353,9 +353,8 @@ include("auth.php");
                               <div class="card-body">
                                 <div class="d-sm-flex justify-content-between align-items-start">
                                   <div>
-                                   <h4 class="card-title card-title-dash">Hi <?php echo $_SESSION['username']; ?></span>, <br>YOUR PROFITS</br></h4>
-                                   <p class="card-subtitle card-subtitle-dash">Includes your capital investment and accumulated profits</p>
-                                  </div>
+                                   <h4 class="card-title card-title-dash">Hi <?php echo $_SESSION['username']; ?></span>, <br>YOUR ACCOUNT BALANCE</br></h4>
+                                     </div>
                                   <div id="performance-line-legend"></div>
                                 </div>
                                 <div class="d-sm-flex align-items-center mt-1 justify-content-between">
